@@ -1,2 +1,1 @@
-# precursito-henry
-es un repositorio de prueba de modulo 2
+hola mundo solo es una prueba de como crear un repositorio en github
